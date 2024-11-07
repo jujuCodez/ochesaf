@@ -337,3 +337,222 @@
 - Complexity depends on size and complexity of worksite and nature of hazards.  
 
 ---
+
+### **OCHESAF**  
+**LECTURE 6**  
+**Workplace Emergency Preparedness**
+
+---
+
+### **Why Emergency Preparedness**
+
+- To take prompt corrective actions to save lives and sufferings/injuries.
+- To protect plant machines, equipment & buildings, etc.
+- To protect loss of materials.
+- To protect and minimize property losses.
+- To resume normal situation or operation within minimum possible time.
+
+---
+
+### **Scope**
+
+- Emergency plan comes into effect at the declaration of emergency and extends up to termination of the emergency.
+- It is applicable to all employees and persons available in the plant/facility.
+
+---
+
+### **Emergency Preparedness**
+
+- Steps you take to make sure you are safe before, during, and after an emergency or natural disaster.
+- These plans are important for your safety in both natural disasters and man-made disasters.
+
+---
+
+### **Objectives of the Emergency Plan**
+
+- This plan is a standing instruction for handling 'Emergency Situations.'
+- The plan envisages pooling of resources to mitigate emergencies.
+- To safeguard human beings, machines, equipment, and property.
+- To safeguard other persons not affected by the emergency so far.
+- Identify/rescue the casualties and arrange for their treatment.
+- To define channels of communications with key personnel.
+
+---
+
+### **Contents of Emergency Plan**
+
+- The emergency plan for industrial facilities should include:
+  - Brief process description
+  - Various hazards available
+  - Classification of emergencies
+  - Emergency scenario envisaged
+  - Agencies required for Emergency handling
+  - Declaration and notification of emergency
+  - Emergency Control center and assembly areas
+  - Communication facilities available
+  - First-aid center and hospital facilities
+  - Responsibilities of key personnel/Alternate persons with contact numbers
+  - Monitoring of hazardous chemicals
+  - Firefighting and rescue arrangements
+  - Assessment of conditions after the release of toxic chemicals
+  - Rescue system among members
+  - Periodicity of conducting drills/exercises
+  - Termination of emergency and notification of the same
+  - Maintenance of emergency equipment
+  - Surveillance and record-keeping
+  - Mutual aid scheme members and communication
+
+---
+
+### **Identification of Hazards**
+
+- **Process Hazards**  
+  - Chemical Hazards, Pressure Hazards, Temperature Hazards, Cryogenic Hazards  
+- **Natural Calamity**  
+  - Flood, Earthquake, Tsunami  
+- **Electrical Hazard**
+- **Missile Attack, Terrorist Attack, Sabotage, etc.**
+
+---
+
+### **Accident Scenarios**
+
+- Massive leakage of toxic chemicals from process piping/equipment
+- Catastrophic failure of a vessel, piping of chemical
+- Major fire
+- Leakage of a road tanker containing hazardous chemicals likely to affect our site
+- Severe lightning/storm conditions/flooding of plant area due to excessive rain
+- Severe earthquake and/or any explosion near the plant
+- Aircraft or missile impact on/near the plant
+
+---
+
+### **Means for Declaring Emergency**
+
+- **Emergency Siren**: It is operated from the main Control Room. Power supply to the siren is backed by a diesel generator.
+- **Public Address System**: Public address system is provided at the main Control room, and it covers the entire plant area and buildings. Power supply to the P.A. system is backed by a diesel generator.
+
+---
+
+### **Declaration of Emergency**
+
+- **Commence**  
+  - Short intermittent signals 5 seconds 'ON' & 5 seconds 'OFF' for a total period of 2 minutes.  
+- **Termination**  
+  - A continuous signal (All clear) for 2 minutes.  
+- **Emergency Announcement**  
+  - Emergency announcement on PA System shall be made in English or mother tongue language.
+
+---
+
+### **Resources**
+
+- Communication systems (including Public Address System)
+- Emergency Siren
+- Transport for evacuation of plant personnel
+- Assembly area
+- First Aid facility including ambulance at site
+- Firefighting and rescue arrangements
+- Security arrangements
+- Breathing air sets and facilities for bottling of breathing air
+- Laboratory facilities
+- Monitors of hazardous chemicals or any explosive materials
+- Fire Alarm System – Heat & Smoke Detectors
+- Fire Pump House
+
+---
+
+### **Site Emergency Director**
+
+- Occupier/factory manager shall be the Site Emergency Director and is overall Controlling Authority.
+- On hearing the emergency siren or on getting information of the same, he shall proceed to the emergency control center and take over as Site Emergency Director.
+- **Responsibilities**:
+  - Assess the emergency based upon the information and data provided.
+  - Direct handling of the emergency.
+  - Arrange to intimate/liaise with government authorities.
+  - Arrange to send casualties for treatment.
+  - Seek assistance from mutual aid.
+
+---
+
+### **Advisory Group**
+
+- Advisory Group will assemble in the emergency control center and advise the Site Emergency Director in consultation with Shift-In-Charge and damage control group.
+
+---
+
+### **Damage Control Group**
+
+- Damage Control Group members shall assemble immediately in the main control room on hearing the siren.
+- Provide necessary assistance to SI to coordinate the jobs pertaining to their sections for combating the emergency and controlling the damage.
+- Carry out headcount in their respective sections and report missing persons to Site Emergency Director.
+
+---
+
+### **Station Officer**
+
+- On getting information, he will immediately reach the fire station/scene of fire and take charge of firefighting/rescue operations, depending on the situation.
+- Until the Station Officer arrives on the scene, the sub-officer on duty will take charge of the activities.
+- Ensure that necessary information is passed on to government agencies for immediate help through a hotline or any alternate means of communication if assistance is required.
+
+---
+
+### **Information Officer**
+
+- He will inform the listed officers about the declaration of emergency.
+- He is the only authorized channel through whom information should be given out into the public domain.
+- Periodically collect all information, status of the emergency, and maintain a chronological record of events.
+- Arrange for augmenting transport, ambulance, security, and other facilities as required.
+
+---
+
+### **Emergency Management**
+
+- Measures include:
+  - Prevention of danger or threat.
+  - Mitigation of risk, severity, or consequences.
+  - Prompt response during emergency.
+  - Assessing the severity or magnitude.
+  - Evacuation, rescue, and treatment.
+- Emergency Management Plan should be available for handling any type of emergency.
+
+---
+
+### **Emergency Control Center**
+
+- An emergency control center is established for use during the emergency.
+- The location is in the General Manager's office, in the technical building.
+- Direction of emergency activities should be transferred to enable field operations without disturbance.
+
+---
+
+### **Assembly Point & Escape Routes**
+
+- Multipurpose hall near the security gate is declared as the assembly point.
+- All persons will assemble in the multipurpose hall if instructed to do so.
+- Evacuation announcements will be made through the PA system.
+
+---
+
+### **List of Equipment in Ambulance**
+
+- Stretchers  
+- Bed, pillows  
+- First aid box  
+- Oxygen cylinder  
+
+---
+
+### **List of Equipment in First Aid Center**
+
+- Bed  
+- Treatment cabin  
+- Water tap & sink  
+- Oxygen apparatus – 2  
+- Stretchers  
+- Bandage of various types  
+- Antibiotics  
+- Various required medicines  
+
+---
+
