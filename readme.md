@@ -1,9 +1,6 @@
----
-
-### **OCHESAF**  
-**LECTURE 5**  
-**Overview of Hazards**
-
+# OCHESAF  
+## LECTURE 5  
+### Overview of Hazards
 ---
 
 ### Hazard Categories
