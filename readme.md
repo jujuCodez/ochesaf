@@ -105,7 +105,7 @@
   - High exposure to sunlight/ultraviolet rays  
   - Temperature extremes – hot and cold  
   - Constant loud noise  
-
+---
 - “Work organization” is at the center of the chart and all the other hazard categories surround it.  
 
 - This is because for many workplace health and safety issues the way our jobs are designed can be a contributing factor to other hazards we might experience.  
