@@ -556,3 +556,167 @@
 
 ---
 
+### **OCHESAF**  
+**LECTURE 7**  
+**Elements of Safety & Health Programs**
+
+---
+
+### **Elements of Safety & Health Programs**
+
+- Management Leadership  
+- Worker Participation  
+- Hazard Identification  
+- Hazard Prevention and Control  
+- Education and Training  
+- Program Evaluation  
+- Multi-Employer Worksites  
+
+---
+
+### **Management Leadership**
+
+#### **Communicate your commitment to Safety and Health Programs**
+- Establish a written safety and health policy statement signed by top management.  
+- Communicate the policy to all workers, contractors, unions, suppliers, visitors, customers, etc.
+
+---
+
+#### **Define program goals and expectations**
+- Establish realistic, attainable, and measurable goals that demonstrate progress toward improving safety and health.  
+- Develop safety and health plans.  
+
+---
+
+#### **Allocate Resources**
+- Integrate safety and health into planning and budgeting.  
+- Allow time in workers' schedules for participation.  
+
+---
+
+#### **Expect Performance**
+- Define and communicate responsibilities and authorities for accountability.  
+- Set an example for workers by following the same procedures.
+
+---
+
+### **Worker Participation**
+
+#### **Involve workers in all aspects of the program**
+- Workers should be included in:
+  - Developing a program.  
+  - Reporting hazards and developing solutions.  
+  - Analyzing hazards.  
+  - Defining safe work practices.  
+  - Conducting site inspections.  
+  - Participating in incident/near-miss investigations.  
+  - Serving as trainers.  
+  - Developing and evaluating training programs.  
+
+---
+
+#### **Encourage workers to report safety and health concerns**
+- Establish a process to report injuries, near misses, and other safety and health concerns.  
+- Empower workers to temporarily suspend work they feel is unsafe.  
+
+---
+
+#### **Encourage participation in the program**
+- Provide positive reinforcement to workers who participate.  
+- Maintain an open-door policy, inviting workers to speak to managers about safety and health.
+
+### **Worker Participation**
+
+- **Involve workers in all aspects of the program.**
+- **Allow workers to be involved in:**
+  - Developing a program.
+  - Reporting hazards and developing solutions.
+  - Analyzing hazards.
+  - Defining safe work practices.
+  - Conducting site inspections.
+  - Participating in incident/near-miss investigations.
+  - Serving as trainers.
+  - Developing and evaluating training programs.
+
+---
+
+- **Give workers access to safety and health information.**
+- **Provide workers the information needed to understand safety and health hazards, including:**
+  - Safety Data Sheets.
+  - Injury Illness Data.
+  - Results of exposure monitoring.
+
+---
+
+- **Remove barriers to participation:**
+  - Ensure workers from all levels of the organization can participate, regardless of skill level, education, or language.
+  - Ensure policies and programs do not discourage worker participation.
+
+---
+
+### **Hazard Identification**
+
+- **Collect existing information about workplace hazards:**
+  - Collect, organize, and review information to determine what types of hazards are present and workers exposed.
+
+---
+
+- **Inspect the workplace:**
+  - Routine inspections of workflow, equipment, and materials; engage in conversations with workers.
+  - Use checklists.
+
+---
+
+- **Conduct incident investigations:**
+  - Develop a plan and procedure to begin investigations immediately after an incident or near miss.
+  - Conduct root cause analysis and investigate with a team.
+
+---
+
+- **Identify hazards associated with emergency and non-routine situations:**
+  - Assess foreseeable emergency scenarios or non-routine tasks.
+  - Conduct "tabletop" exercises to help plan and test your response plans and procedures.
+
+---
+
+- **Characterize the nature of identified hazards, determine the controls to be implemented, and prioritize the hazards for control:**
+  - Evaluate each hazard by considering the severity of potential outcomes, the likelihood of an event occurring, and the number of workers exposed.
+  - Prioritize hazards so that the greatest risks are addressed first.
+  - Use interim control measures to protect workers until more permanent solutions can be implemented.
+
+### Hazard Prevention and Control
+
+#### Identify Control Options
+- Review literature, OSHA standards, and publications for potential control measures.
+- Get input from workers, safety consultants, or investigate other workplaces with similar hazards.
+
+#### Select Controls
+- Select controls using the hierarchy of controls.
+- Use a combination when no single method fully protects the worker.
+
+#### Develop and Update a Hazard Control Plan
+- List hazards in order of priority, assign responsibility to a person(s), and establish a target completion date.
+- Plan how to track progress and verify implementation.
+
+#### Select Controls for Emergency and Non-Routine Operations
+- Develop procedures to control hazards during these situations.
+- Assign responsibility for implementing the plan and conducting emergency drills.
+
+#### Implement Selected Controls in the Workplace
+- Implement controls starting with the highest priority; however, regardless of priority, employers must protect workers from recognized serious hazards.
+
+#### Follow Up to Confirm That Controls Are Effective
+- Conduct regular inspections of controls, confirm that work practices are being followed.
+- Track progress and implementation.
+
+---
+
+### Education and Training
+
+#### Provide Program Awareness Training
+- Provide training to all managers, supervisors, workers, contractors, and temporary workers on safety policies, procedures, program functions, emergencies, injury illness reporting, and their rights under the OSH Act.
+- Ensure the training is provided in a language and literacy level that all workers can understand.
+
+#### Train Workers on Specific Roles and Responsibilities in the Safety and Health Program
+- Instruct workers with specific roles within the safety and health program on how they should carry out those responsibilities.
+- Provide opportunities for workers to ask questions and offer feedback during training.
