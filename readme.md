@@ -720,3 +720,69 @@
 #### Train Workers on Specific Roles and Responsibilities in the Safety and Health Program
 - Instruct workers with specific roles within the safety and health program on how they should carry out those responsibilities.
 - Provide opportunities for workers to ask questions and offer feedback during training.
+
+---
+- **Provide program awareness training.**
+  - Provide training to all managers, supervisors, workers, contractors, and temporary workers on:
+    - Safety policies and procedures.
+    - Program functions.
+    - Emergencies.
+    - Injury illness reporting.
+    - Rights under the OSH Act.
+  - Ensure the training is provided in a language and literacy level that all workers can understand.
+
+- **Train workers on specific roles and responsibilities in the safety and health program.**
+  - Instruct workers with specific roles on how they should carry out those responsibilities.
+  - Provide opportunities for workers to ask questions and offer feedback during training.
+
+- **Train workers on hazard identification and controls.**
+  - Train managers and workers on techniques for identifying hazards, such as job hazard analysis.
+  - Have workers demonstrate they can recognize hazards and understand why controls are in place.
+  - Provide training on new tasks and new assignments.
+  - Provide training as required by OSHA standards, such as hazard communication and lockout/tagout.
+
+---
+
+### **Program Evaluation**
+- **Verify the program is implemented and operating.**
+  - Verify the core elements of the program are fully met, and key processes are in place and implemented.
+  - Verify injuries are being reported, inspections are conducted, and progress is being tracked in controlling identified hazards.
+  - Ensure control measures are effective, and data is collected to monitor the program's performance.
+
+- **Correct program deficiencies and identify opportunities to improve.**
+  - Proactively seek input from managers, workers, supervisors, and other stakeholders on how to improve the program.
+  - Determine whether changes in equipment, facilities, material, personnel, or work practices trigger any need for changes in the program.
+  - Determine whether the metrics and goals are still relevant and how they could be adjusted to drive improvements effectively.
+
+---
+
+### **Multi-Employer Worksites**
+- **Management Leadership**
+  - Provide a copy of the safety and health policy to all contractors.
+  - Before beginning on-site work, clarify each employer’s responsibilities and obligations, such as:
+    - Providing training.
+    - Selecting, providing, and maintaining PPE.
+    - Recording and reporting any injuries or illnesses.
+    - Establishing procedures for communication between the host employer and all contractors.
+
+- **Worker Participation**
+  - Encourage employees to raise safety concerns.
+  - Identify and remove any obstacles to their participation in programs or reporting.
+
+- **Hazard Identification and Assessment**
+  - Host employer performs a worksite hazard assessment and shares the results.
+  - Contractors perform pre-job hazard assessments of the work they will perform.
+
+- **Hazard Prevention and Control**
+  - Before beginning work, the host employer provides contractors with information about programs and procedures to control workers’ exposure to hazards.
+
+- **Education and Training**
+  - The host employer and contractor identify any qualifications and certifications required by the workers.
+  - Temporary and contract workers also receive appropriate hazard and standard-specific training.
+
+---
+
+#### **Program Evaluation and Improvement**
+- Exchange data on metrics tracks and use this data to evaluate the program’s effectiveness.
+- All contractors should participate in these evaluations.
+- Share the results of the evaluations with contractors, subcontractors, and temporary staffing agencies, who can then inform the affected workers of the results.
